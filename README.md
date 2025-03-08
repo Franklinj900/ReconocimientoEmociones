@@ -41,8 +41,10 @@ Para entrenar nuestros modelos, utilizamos un conjunto de datos de textos etique
 - Datos extraídos de Twitter, que fueron clasificados manualmente.
 
 ### Limpieza de Datos
+realmente no se utilizo una limpieza de datos ya que las fuentes fueron bastante certeras y minimalistas a la hora de construir sus dataseets, acontinuacion en cambio mostramos el flujo de datos de cada dataseet
 
-![Limpieza de Datos](ruta/a/imagen/limpieza_datos.png)
+![Limpieza de Datos](dataseet1.png)
+![Limpieza de Datos](dataseet2.png)
 
 ### Manejo de Excepciones/Control de Errores
 
