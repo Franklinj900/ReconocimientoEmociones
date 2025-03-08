@@ -29,7 +29,7 @@ En el mundo digital de hoy, las personas comparten sus pensamientos y sentimient
 
 ## Arquitectura
 
-![Arquitectura del Proyecto](ruta/a/imagen/arquitectura.png)
+![Arquitectura del Proyecto](arquitectura.png)
 
 ## Proceso
 
