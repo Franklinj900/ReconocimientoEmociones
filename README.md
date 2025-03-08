@@ -54,7 +54,10 @@ Implementamos diversas técnicas para manejar excepciones y controlar errores du
 
 Incluimos análisis estadísticos y gráficos para entender mejor la distribución de los datos y el rendimiento de los modelos.
 
-!Estadísticos
+![Estadísticos](estadistico1_sentimientos.png)
+![Estadísticos](estadistico2_sentimientos.png)
+![Estadísticos](estadistico1_depresion.png)
+![Estadísticos](estadistico2_depresion.png)
 
 ## Funcionalidades
 
