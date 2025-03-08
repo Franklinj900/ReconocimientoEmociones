@@ -60,6 +60,18 @@ Incluimos análisis estadísticos y gráficos para entender mejor la distribuci�
 ![Estadísticos](estadistico2_depresion.png)
 
 ## Funcionalidades
+### Entrenamiento de los modelos:
+- **Modelos**: Regresion Lineal, Naive bayes, SVM.
+- **Arquitectura**:
+  #### modelo de sentimientos:
+  ![Arquitectura del modelo](arquitectura1.png)
+  ![Arquitectura del modelo](arquitectura2.png)
+  ![Arquitectura del modelo](arquitectura3.png)
+  #### modelo de depresion:
+  ![Arquitectura del modelo](arquitectura4.png)
+  ![Arquitectura del modelo](arquitectura5.png)
+  ![Arquitectura del modelo](arquitectura6.png)
+  
 
 ### Integración del Proyecto en una Página Web
 
