@@ -29,7 +29,7 @@ En el mundo digital de hoy, las personas comparten sus pensamientos y sentimient
 
 ## Arquitectura
 
-![Arquitectura del Proyecto](arquitectura.png)
+![Arquitectura del Proyecto](imagenes/arquitectura.png)
 
 ## Proceso
 
@@ -43,8 +43,8 @@ Para entrenar nuestros modelos, utilizamos un conjunto de datos de textos etique
 ### Limpieza de Datos
 realmente no se utilizo una limpieza de datos ya que las fuentes fueron bastante certeras y minimalistas a la hora de construir sus dataseets, acontinuacion en cambio mostramos el flujo de datos de cada dataseet
 
-![Limpieza de Datos](dataseet1.png)
-![Limpieza de Datos](dataseet2.png)
+![Limpieza de Datos](imagenes/dataseet1.png)
+![Limpieza de Datos](imagenes/dataseet2.png)
 
 ### Manejo de Excepciones/Control de Errores
 
@@ -54,23 +54,23 @@ Implementamos diversas técnicas para manejar excepciones y controlar errores du
 
 Incluimos análisis estadísticos y gráficos para entender mejor la distribución de los datos y el rendimiento de los modelos.
 
-![Estadísticos](estadistico1_sentimientos.png)
-![Estadísticos](estadistico2_sentimientos.png)
-![Estadísticos](estadistico1_depresion.png)
-![Estadísticos](estadistico2_depresion.png)
+![Estadísticos](imagenes/estadistico1_sentimientos.png)
+![Estadísticos](imagenes/estadistico2_sentimientos.png)
+![Estadísticos](imagenes/estadistico1_depresion.png)
+![Estadísticos](imagenes/estadistico2_depresion.png)
 
 ## Funcionalidades
 ### Entrenamiento de los modelos:
 - **Modelos**: Regresion Lineal, Naive bayes, SVM.
 - **Arquitectura**:
   #### modelo de sentimientos:
-  ![Arquitectura del modelo](arquitectura1.png)
-  ![Arquitectura del modelo](arquitectura2.png)
-  ![Arquitectura del modelo](arquitectura3.png)
+  ![Arquitectura del modelo](imagenes/arquitectura1.png)
+  ![Arquitectura del modelo](imagenes/arquitectura2.png)
+  ![Arquitectura del modelo](imagenes/arquitectura3.png)
   #### modelo de depresion:
-  ![Arquitectura del modelo](arquitectura4.png)
-  ![Arquitectura del modelo](arquitectura5.png)
-  ![Arquitectura del modelo](arquitectura6.png)
+  ![Arquitectura del modelo](imagenes/arquitectura4.png)
+  ![Arquitectura del modelo](imagenes/arquitectura5.png)
+  ![Arquitectura del modelo](imagenes/arquitectura6.png)
   
 
 ### Integración del Proyecto en una Página Web
@@ -79,7 +79,7 @@ Utilizamos Reflex para desarrollar una interfaz interactiva que permite a los us
 
 - **Tecnología/Herramientas usadas**: Reflex, Python, Scikit-learn
 - **Arquitectura**: 
-  ![Arquitectura de la Interfaz](interfaz.png)
+  ![Arquitectura de la Interfaz](imagenes/interfaz.png)
 
 ### Desarrollo de Interfaz Gráfica de Usuario
 
