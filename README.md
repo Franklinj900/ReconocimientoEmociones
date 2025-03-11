@@ -79,7 +79,7 @@ Utilizamos Reflex para desarrollar una interfaz interactiva que permite a los us
 
 - **Tecnología/Herramientas usadas**: Reflex, Python, Scikit-learn
 - **Arquitectura**: 
-  ![Arquitectura de la Interfaz](ruta/a/imagen/arquitectura_interfaz.png)
+  ![Arquitectura de la Interfaz](interfaz.png)
 
 ### Desarrollo de Interfaz Gráfica de Usuario
 
