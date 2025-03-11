@@ -1,0 +1,6 @@
+reflex
+deep_translator
+nltk
+scikit-learn
+matplotlib
+seaborn
